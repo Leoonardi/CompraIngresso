@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompraIngresso", "CompraIngresso\CompraIngresso.csproj", "{AC22822C-D31C-4821-8680-DC5B529AA7F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC22822C-D31C-4821-8680-DC5B529AA7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC22822C-D31C-4821-8680-DC5B529AA7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC22822C-D31C-4821-8680-DC5B529AA7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC22822C-D31C-4821-8680-DC5B529AA7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF2B27B2-1B81-453A-80F5-11786AF1FC43}
+	EndGlobalSection
+EndGlobal
